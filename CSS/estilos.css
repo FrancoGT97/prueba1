@@ -1,0 +1,36 @@
+p {
+    color:midnightblue;
+    font-size: large;
+    text-align: center;
+}
+h1 {
+    color:yellow; 
+    border: 3px blue dotted; 
+    background-color: darkred;
+    padding: 20px;
+    margin:50px;
+    text-align: center;
+
+}
+h2{
+    color:black;
+    text-align: center;
+}
+form {
+    text-align: center;
+}
+img{
+    margin-left: 50px;
+}
+
+section{
+   border: 2px solid blue;
+   padding:10px;
+   margin-left: 50px;
+}
+iframe{
+    margin-left: 50px;
+}
+video{
+    margin-left: 50px;
+}
